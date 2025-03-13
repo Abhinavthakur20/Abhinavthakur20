@@ -2,7 +2,7 @@
 🚀 **Aspiring Web Developer** | 💻 **MERN Stack Enthusiast** | 🌍 **Open Source Contributor**  
 
 ## **About Me**  
-🎓 **B.Tech CSE** | Guru Nanak Dev University, Jalndhar
+🎓 **B.Tech CSE** | Guru Nanak Dev University, Jalandhar
 💡 Passionate about full-stack web development, problem-solving, and building scalable applications.  
 📌 Currently learning **Node.js, Express,js, and advanced backend development**.  
 📢 Currently working on Real time chat application using MERN!  
