@@ -1,5 +1,5 @@
 # **Hi there, I'm Abhinav Thakur! 👋**  
-🚀 **Aspiring Web Developer** | 💻 **MERN Stack Enthusiast** | 🌍 **Open Source Contributor**  
+🚀 **Aspiring Web Developer** | 💻 **MERN Stack Enthusiast** |
 
 ## **About Me**  
 🎓 **B.Tech CSE** | Guru Nanak Dev University, Jalandhar
